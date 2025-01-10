@@ -1,0 +1,24 @@
+/* {
+  border: 1px solid black;
+}*/
+
+/*-------------------------------------Navbar Styling-------------------------------------*/
+
+#brand-logo {
+  width: 40px;
+  height: 40px;
+  background-color: transparent;
+}
+
+#brand-slogan {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+
+/*-------------------------------------Hero Section Styling-------------------------------------*/
+
+.Hero {
+  background-image: url('./Images/Hero-section/pexels-cottonbro-5053740.jpg');
+  background-size: cover;
+}
